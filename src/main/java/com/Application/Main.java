@@ -42,6 +42,6 @@ public class Main {
             }
         }
         JustChoiceYourCity theCity = new JustChoiceYourCity();
-        theCity.guessTheCity(cities);      //Передаем другому классу для выбора города.
+        theCity.guessTheCity(cities);      //Передаем другому классу для выбора города пользователем.
     }
 }
